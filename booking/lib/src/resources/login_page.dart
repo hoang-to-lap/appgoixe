@@ -77,14 +77,14 @@ class _LoginPageState extends State<LoginPage> {
             child: SizedBox(
               width: double.infinity,
               height: 52,
-              child: RaisedButton(
+              child: ElevatedButton(
                 onPressed : () {},
                 child:Text("login",style: TextStyle(color: Colors.white ,fontSize: 18),
                 ),
-                color : Color(0xff327708),
-                shape : RoundedRectangleBorder(
-                  borderRadius: BorderRadius.all(Radius.circular(6))
-                )
+                // color : Color(0xff327708),
+                // shape : RoundedRectangleBorder(
+                //   borderRadius: BorderRadius.all(Radius.circular(6))
+                // )
               ),
             ),
             ),

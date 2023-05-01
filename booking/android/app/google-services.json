@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157030328763",
+    "project_id": "goixeapp-d72de",
+    "storage_bucket": "goixeapp-d72de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157030328763:android:1d58d1922a2c9655f63c9e",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157030328763-egjrcbd3kvei07vs2pfrhc4dvtoqde5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAX8kwKJ6WQyQOcnHyKpKo5biGVyPl2SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157030328763-egjrcbd3kvei07vs2pfrhc4dvtoqde5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
